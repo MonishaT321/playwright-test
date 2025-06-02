@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Playwright test reports and artifacts
+playwright-report/
+test-results/
+videos/
+screenshots/
+
+# Logs
+*.log
+
+# Environment variables
+.env
